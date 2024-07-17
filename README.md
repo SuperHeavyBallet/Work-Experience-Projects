@@ -16,10 +16,15 @@
     - Newsletter Subscribe
     - Call to Action
     - Footer
--- Sale Page
--- About Page
--- Contact Page
+- - Sale Page
+- - About Page
+- - Contact Page
 
-
-
-
+- A simple Blog Webpage
+- - Main Page for new articles
+  - Navbar
+  - Left Column with brief about author, 
+  - Main Column filled with blog articles
+  - - Footer Area with other articles links
+  - Right Column filled with other articles, space for ads etc
+- - About author page
