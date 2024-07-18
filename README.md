@@ -5,7 +5,11 @@
 - - Chibi Small fantasy adventure, swords and sorcery action squad rpg
 
  - - Chibi Small Sci fi squad shooter, main figure and back up members bursting through metal, space ship wall
-  
+
+- In game Elements
+- - Pointing finger, cursor
+  - Pick up items, coins, bolts, gems
+  - Inventory item art, weapons, ingredients etc
 # Web Development
 - Startup style landing page
 - - Home Page
