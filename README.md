@@ -32,3 +32,11 @@
   - - Footer Area with other articles links
   - Right Column filled with other articles, space for ads etc
 - - About author page
+
+- An Art/Ideas Scrapbook to easily collect random things you come across in one place
+- Create a storage space
+- Perhaps a Random Inspo on front page to display random selections of uploads
+- 
+![CS50x 2024 - Lecture 7 - SQL 0-17 screenshot](https://github.com/user-attachments/assets/93c7cc0a-8f26-47b6-a3e8-325a9ff08a83)
+
+- For example, the above image itself made me want to at a later date sketch some architecture based around the same gothic style, but it is a screenshot from a youtube video, so I am likely to forget about it very quickly.
